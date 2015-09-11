@@ -1,6 +1,6 @@
 package mlp;
 
-public class Veiculo {
+public abstract class Veiculo {
 	protected String placa;
 	protected String marca;
 	protected String modelo;
